@@ -70,3 +70,12 @@ npm run ios
 
 ## 📸 Screenshots
 *(Add screenshots of Home, Cart, and Checkout screens here)*
+
+![LOGIN_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/LOGIN_SCREEN.jpeg?raw=true)
+![OTP_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/OTP_SCREEN.jpeg?raw=true)
+![HOME_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/HOME_SCREEN.jpeg?raw=true)
+![PRODUCT_DESC_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/PRODUCT_DESC_SCREEN.jpeg?raw=true)
+![PROFILE_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/PROFILE_SCREEN.jpeg?raw=true)
+![CART_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/CART_SCREEN.jpeg?raw=true)
+![CHECKOUT_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/CHECKOUT_SCREEN.jpeg?raw=true)
+![CATEGORIES_SCREEN](https://github.com/talktogauravsingh/flipkart-clone/blob/main/screenshots/CATEGORIES_SCREEN.jpeg?raw=true)
